@@ -1,0 +1,9 @@
+Pedido ID: 0
+Cliente: +jj
+Dirección: jjj
+----------------
+corral     ----------- 17500
+----------------
+Precio Neto:  17500
+IVA:          3325
+Precio Total: 20825
